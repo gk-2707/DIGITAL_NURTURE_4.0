@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DataStructures_Algorithms.iml" filepath="$PROJECT_DIR$/.idea/DataStructures_Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/E-com Search/E-com Search.iml" filepath="$PROJECT_DIR$/E-com Search/E-com Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Financial Forecasting/Financial Forecasting.iml" filepath="$PROJECT_DIR$/Financial Forecasting/Financial Forecasting.iml" />
     </modules>
   </component>
 </project>
