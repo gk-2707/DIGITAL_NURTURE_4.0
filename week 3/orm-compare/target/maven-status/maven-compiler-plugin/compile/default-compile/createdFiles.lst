@@ -1,0 +1,6 @@
+com\example\orm_compare\hibernate\HibernateEmployeeDao.class
+com\example\orm_compare\model\Employee.class
+com\example\orm_compare\springdatajpa\EmployeeRepository.class
+com\example\orm_compare\springdatajpa\SpringDataEmployeeService.class
+com\example\orm_compare\OrmCompareApp.class
+com\example\orm_compare\hibernate\HibernateUtil.class
