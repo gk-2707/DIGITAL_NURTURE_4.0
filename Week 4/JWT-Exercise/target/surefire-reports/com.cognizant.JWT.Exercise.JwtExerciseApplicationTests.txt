@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cognizant.JWT.Exercise.JwtExerciseApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.588 s -- in com.cognizant.JWT.Exercise.JwtExerciseApplicationTests
